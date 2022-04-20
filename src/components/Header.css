@@ -1,0 +1,29 @@
+.nav-container {
+    display: flex;
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.nav-container img {
+    transition-duration: .5s;
+}
+
+.nav-container img:hover{
+    transform: rotate(10800deg);
+    transition-duration: .5s;
+}
+
+.links-container {
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    list-style: none;
+    margin: 0 auto;
+    align-items: center;
+}
+
+.links-container a {
+    color: #000;
+    text-decoration: none;
+}
