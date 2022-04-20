@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de243f80-35dd-4483-87fb-4c2f637fe7b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/my.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Hero.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Hero.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +63,7 @@
       <updated>1650280952834</updated>
       <workItem from="1650280958007" duration="130000" />
       <workItem from="1650365072495" duration="3785000" />
-      <workItem from="1650446868222" duration="5493000" />
+      <workItem from="1650446868222" duration="7000000" />
     </task>
     <servers />
   </component>
